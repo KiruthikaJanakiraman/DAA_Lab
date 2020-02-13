@@ -1,0 +1,12 @@
+kiru@DESKTOP-3DFOMEQ:/mnt/c/Users/Kiruthika/Documents/Sem_4/DAA_Lab/A8$ python3 kruskals.py
+Following are the edges in the constructed MST
+
+Source    Dest    Weight
+7     --   6   ==   1
+8     --   2   ==   2
+6     --   5   ==   2
+0     --   1   ==   4
+2     --   5   ==   4
+2     --   3   ==   7
+0     --   7   ==   8
+3     --   4   ==   9
